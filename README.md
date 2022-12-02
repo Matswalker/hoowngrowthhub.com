@@ -34,19 +34,19 @@
         
       }
       .hoown{
-        font-size: 50px;
+        font-size: 100px;
         margin-bottom: 1px;
         color: white;
         cursor: pointer;
       }
       .agency{
-        font-size: 20px;
+        font-size: 50px;
         color: white;
         cursor: pointer;
       }
       .ADJ{
         color: #dc143c;
-        
+	font-size: 100px;
         cursor: pointer;
       }
 
@@ -198,8 +198,8 @@ media {max-width: 800px;}
   <body class="body">
     <div>
       <div class="heading">
-        <h1 class="hoown">HOOWN <span class="ADJ">GROWTH</span> HUB</h1>
-        <h2 class="agency">MARKETING AGENCY</h2>
+        <p class="hoown">HOOWN <span class="ADJ">GROWTH</span> HUB</p>
+        <p class="agency">MARKETING AGENCY</p>
       </div>
       <div class="slide" align="center"  >
         <div class="box">
