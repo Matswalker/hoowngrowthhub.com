@@ -34,7 +34,7 @@
         
       }
       .hoown{
-        font-size: 750px;
+        font-size: 75px;
         margin-bottom: 1px;
         color: white;
         cursor: pointer;
