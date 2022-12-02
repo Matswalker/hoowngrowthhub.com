@@ -1,4 +1,4 @@
-# hoowngrowthhub.com
+
 
 
 
@@ -34,13 +34,13 @@
         
       }
       .hoown{
-        font-size: 100px;
+        font-size: 90px;
         margin-bottom: 1px;
         color: white;
         cursor: pointer;
       }
       .agency{
-        font-size: 50px;
+        font-size: 40px;
         color: white;
         cursor: pointer;
       }
