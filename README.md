@@ -1,6 +1,5 @@
 # hoowngrowthhub.com
 
-<!DOCTYPE html>
 <html>
   <head>
     <title>HOOWN 
