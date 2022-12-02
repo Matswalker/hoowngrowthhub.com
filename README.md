@@ -34,13 +34,13 @@
         
       }
       .hoown{
-        font-size: 90px;
+        font-size: 750px;
         margin-bottom: 1px;
         color: white;
         cursor: pointer;
       }
       .agency{
-        font-size: 40px;
+        font-size: 25px;
         color: white;
         cursor: pointer;
       }
