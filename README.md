@@ -2,8 +2,7 @@
 
 
 
-<!DOCTYPE html>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>HOOWN 
