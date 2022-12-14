@@ -3,6 +3,7 @@
 
 
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>HOOWN 
@@ -276,17 +277,11 @@
         
       </div>
       <form action="#">
-        <div align="center">
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>
-          <!-- Homepage Leaderboard -->
-          <ins class="adsbygoogle"
-          style="display:inline-block;width:728px;height:90px"
-          data-ad-client="ca-pub-1234567890123456"
-          data-ad-slot="1234567890"></ins>
-          <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
-          </div>
+        <a href="https://example.com/">
+          <video width="300" height="250" fullscreen="false" webkit-playsinline controls autoplay muted poster="http://example.com/thumbnail.gif">
+          <source src="https://www.adspeed.com/mp4/big_buck_bunny.mp4" type="video/mp4">
+          </video>
+          </a>
        
         <div class="information" >
           <div class="phone">
@@ -330,15 +325,11 @@
         </div>
           
         <div align="center">
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>
-          <!-- Homepage Leaderboard -->
-          <ins class="adsbygoogle"
-          style="display:inline-block;width:728px;height:90px"
-          data-ad-client="ca-pub-1234567890123456"
-          data-ad-slot="1234567890"></ins>
-          <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
+          <a href="https://example.com/">
+            <video width="300" height="250" fullscreen="false" webkit-playsinline controls autoplay muted poster="http://example.com/thumbnail.gif">
+            <source src="https://www.adspeed.com/mp4/big_buck_bunny.mp4" type="video/mp4">
+            </video>
+            </a>
           </div>
         
         <div>
@@ -375,15 +366,11 @@
         </div>
        
         <div align="center">
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>
-          <!-- Homepage Leaderboard -->
-          <ins class="adsbygoogle"
-          style="display:inline-block;width:728px;height:90px"
-          data-ad-client="ca-pub-1234567890123456"
-          data-ad-slot="1234567890"></ins>
-          <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
+          <a href="https://example.com/">
+            <video width="300" height="250" fullscreen="false" webkit-playsinline controls autoplay muted poster="http://example.com/thumbnail.gif">
+            <source src="https://www.adspeed.com/mp4/big_buck_bunny.mp4" type="video/mp4">
+            </video>
+            </a>
           </div>
         
         <div class="phone">
@@ -419,15 +406,11 @@
 
         
         <div align="center">
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>
-          <!-- Homepage Leaderboard -->
-          <ins class="adsbygoogle"
-          style="display:inline-block;width:728px;height:90px"
-          data-ad-client="ca-pub-1234567890123456"
-          data-ad-slot="1234567890"></ins>
-          <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
+          <a href="https://example.com/">
+            <video width="300" height="250" fullscreen="false" webkit-playsinline controls autoplay muted poster="http://example.com/thumbnail.gif">
+            <source src="https://www.adspeed.com/mp4/big_buck_bunny.mp4" type="video/mp4">
+            </video>
+            </a></div>
 
       </form> 
     </div>
